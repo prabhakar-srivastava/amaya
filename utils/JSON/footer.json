@@ -1,0 +1,86 @@
+{
+    "help":{
+        "title":"help & information",
+        "list":[
+            {
+                "name":"faq",
+                "link":"/faqs"
+            },
+            {
+                "name":"shipping information",
+                "link":"/"
+            },
+            {
+                "name":"returns & exchange",
+                "link":"/"
+            },
+            {
+                "name":"terms & conditions",
+                "link":"/"
+            }
+        ]
+    },
+    "searches":{
+        "title":"search",
+        "list":[
+            {
+                "name":"hot deals",
+                "link":""
+            },
+            {
+                "name":"best deals",
+                "link":""
+            },
+            {
+                "name":"designers",
+                "link":""
+            },
+            {
+                "name":"best of amayamoda",
+                "link":""
+            },
+            {
+                "name":"story",
+                "link":""
+            },
+            {
+                "name":"news",
+                "link":""
+            }
+        ]
+    },
+    "links":{
+        "title":" quick links",
+        "list":[
+            {
+                "name":"home",
+                "links":"/"
+            },
+            {
+                "name":"shop",
+                "links":"/shop"
+            },
+            {
+                "name":"cart",
+                "links":"/cart"
+            },
+            {
+                "name":"about us",
+                "links":"/about-us"
+            }
+        ]
+    },
+    "socials":{
+        "facebook":"",
+        "instagram":"",
+        "youtube":"",
+        "twitter":""
+    },
+    "contacts":{
+        "call":"7766800886",
+        "whatsapp":"7766800886",
+        "mail":"contact@amayamoda.com"
+    }
+
+
+}

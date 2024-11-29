@@ -1,0 +1,152 @@
+{
+    "new": {
+        "title": "New Drops",
+        "items": [
+            {
+                "image": "https://res.cloudinary.com/deaahfa0r/image/upload/v1731052301/030A7992-02_qsosaw.jpg",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "https://res.cloudinary.com/deaahfa0r/image/upload/v1731052185/030A7195_2-01_y08nuc.jpg",
+                "title": "vayyu",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "https://res.cloudinary.com/deaahfa0r/image/upload/v1731051922/030A7292-01_ccc91l.jpg",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "https://res.cloudinary.com/deaahfa0r/image/upload/v1731051922/030A7292-01_ccc91l.jpg",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "https://res.cloudinary.com/deaahfa0r/image/upload/v1731051616/IMG_2436s_i4270b.jpg",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "https://res.cloudinary.com/deaahfa0r/image/upload/v1731051202/IMG_2515-02_gx6xkv.jpg",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            }
+        ]
+    },
+    "exclusive": {
+        "title": "Exclusive Collection",
+        "items": [
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "vayyu",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            }
+        ]
+    },
+    "Occasion": {
+        "title": "Shop by Occasion",
+        "items": [
+            {
+                "image": "https://res.cloudinary.com/deaahfa0r/image/upload/v1731052301/030A7992-02_qsosaw.jpg",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "vayyu",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "https://res.cloudinary.com/deaahfa0r/image/upload/v1731051922/030A7292-01_ccc91l.jpg",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "https://res.cloudinary.com/deaahfa0r/image/upload/v1731052301/030A7992-02_qsosaw.jpg",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "https://res.cloudinary.com/deaahfa0r/image/upload/v1731052301/030A7992-02_qsosaw.jpg",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "https://res.cloudinary.com/deaahfa0r/image/upload/v1731051202/IMG_2515-02_gx6xkv.jpg",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            }
+        ]
+    },
+    "wedding": {
+        "title": "Weddings Collection",
+        "items": [
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "vayyu",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            }
+        ]
+    }
+}

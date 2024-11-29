@@ -1,0 +1,60 @@
+{
+    "top-carousal":["","","",""],
+    "category":[
+        {
+            "img":"",
+            "title":"",
+            "link":""
+        },
+        {
+            "img":"",
+            "title":"",
+            "link":""
+        },
+        {
+            "img":"",
+            "title":"",
+            "link":""
+        },
+        {
+            "img":"",
+            "title":"",
+            "link":""
+        }
+    ],
+    "exclusive":{
+        "title": "Exclusive Collaborations",
+        "items": [
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "vayyu",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": ""
+            },
+            {
+                "image": "",
+                "title": "lasha",
+                "subTile": "Abhilasha"
+            }
+        ]
+    }
+}

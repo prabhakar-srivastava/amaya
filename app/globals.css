@@ -2,20 +2,113 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+
+/* Accordian styles */
+.card {
+  /* box-shadow: 0px 5px 10px rgba(90, 116, 148, 0.3); */
+  /* background-color: #fff; */
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  color: #475f7b;
+  overflow: hidden;
+}
+.rc-accordion-toggle {
+  display: flex;
+  align-items: flex-start;
+  cursor: pointer;
+  justify-content: space-between;
+  background-color: #ebedf0;
+  transition: 0.3s;
+}
+.rc-accordion-toggle.active {
+  background-color: #000000b9;
+}
+.rc-accordion-toggle.active .rc-accordion-icon {
+  transform: rotate(180deg);
+  color: #fff;
+}
+.rc-accordion-card {
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  background:white;
+}
+.rc-accordion-card:last-child {
+  margin-bottom: 0;
+}
+.rc-accordion-title {
+  font-weight: 500;
+  font-size: 14px;
+  position: relative;
+  margin-bottom: 0;
+  color: #475f7b;
+  transition: 0.3s;
+}
+.rc-accordion-toggle.active .rc-accordion-title {
+  color: #fff;
+}
+.rc-accordion-icon {
+  position: relative;
+  top: 2px;
+  color: #475f7b;
+  transition: 0.35s;
+  font-size: 12px;
+}
+.rc-accordion-body {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 15px;
+}
+.rc-accordion-body p {
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #727e8c;
+}
+.rc-collapse {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  transition: height 0.35s ease;
+}
+.rc-collapse.show {
+  height: auto;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+
+/* 3d-swiper style  */
+::-webkit-scrollbar{
+  display: none;
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+#filter{
+  accent-color: black;
+}
+
+.swiper-button-next, 
+.swiper-button-prev {
+  color: red;
+}
+
+.swiper-button-next:after, 
+.swiper-button-prev:after {
+  font-size: 30px;
+}
+
+.swiper-button-next.swiper-button-disabled, 
+.swiper-button-prev.swiper-button-disabled {
+    opacity: 0;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: red !important;
+  width: 2rem;
+}
+
+.swiper-pagination-bullet {
+  background-color: rgba(255, 0, 0, 0.5);
 }
