@@ -9,16 +9,22 @@ export enum LABLEPOSITION{
 
 interface CollectionListCardProp {
   list: {
+    link: string;
     image: string;
     title: string;
     subTile: string;
-  }
+} | {
+    image: string;
+    title: string;
+    subTile: string;
+    link?: undefined;
+}
   lablePosition:LABLEPOSITION
 }
 
 function collectionListCardStyle1(props: CollectionListCardProp) {
   return (
-    <div className='relative'>
+    <a href={props?.list?.link} className='relative'>
       <div className='w-80 h-[30rem] overflow-hidden'>
         <Image src={props?.list?.image || img3} alt='' width={1000} height={1000} className='w-80 h-full lg:hover:scale-110  transition-all duration-500 object-fill cursor-pointer' />
       </div>
@@ -26,7 +32,7 @@ function collectionListCardStyle1(props: CollectionListCardProp) {
         <h1 className='text-xl font-serif leading-none font-extrabold'>{props?.list?.title.toUpperCase()}</h1>
         <h1 className='text-sm font-sans tracking-widest'>{props?.list?.subTile}</h1>
       </div>
-    </div>
+    </a>
   )
 }
 

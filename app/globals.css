@@ -105,7 +105,7 @@
 }
 
 .swiper-pagination-bullet-active {
-  background-color: red !important;
+  background-color: black !important;
   width: 2rem;
 }
 

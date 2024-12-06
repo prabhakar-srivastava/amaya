@@ -32,7 +32,7 @@ function Slider3D(props: any) {
                     props?.list.map((res:any, index: React.Key | null | undefined) => {
                         return (
                             <SwiperSlide key={index} className=''>
-                                <ProductCardStyle2 productImage={res?.image?.[0]} designer={res?.designer} productName={res?.product_name} mpr={res?.mrp} uid={res?.uid} />
+                                <ProductCardStyle2 productImage={res?.image?.[0]}   uid={res?.uid} />
                             </SwiperSlide>
                         )
                     })

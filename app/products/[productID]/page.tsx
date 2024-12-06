@@ -3,6 +3,7 @@ import Trustedby from '@/components/Banners/trustedby'
 import ThumbNailCarousal from '@/components/Carousal/thumbNailCarousal'
 import ProductCardStyle2 from '@/components/products/productCardStyle2'
 import Section, { TYPE } from '@/components/Section/section'
+import Size from '@/components/size/size'
 import SizePicker from '@/components/SizePicker/sizePicker'
 import lashaData from '@/utils/JSON/lasha.json'
 import { Mail, Phone } from 'lucide-react'
@@ -39,7 +40,7 @@ async function page({ params }: any) {
                             }
                         </div>
                         <div className='text-4xl mt-6 font-serif hover:underline underline-offset-2 cursor-pointer'>
-                            <h1>{data?.designer?.toUpperCase()}</h1>
+                            <h1><a href={data?.link}>{data?.designer?.toUpperCase()}</a></h1>
                         </div>
                         <div className=' font-serif tracking-wider text-gray-600 text-lg mt-2'>
                             <h1>{data?.product_name}</h1>
@@ -59,9 +60,8 @@ async function page({ params }: any) {
                             </div>
                         </div>
                         <div className='mt-4'>
-                            <div className='flex gap-8'>
-                                <h1>Select your size</h1>
-                                <h1 className='text-red-500 cursor-pointer'>size guide?</h1>
+                            <div className=''>
+                               <Size />
                             </div>
                             <div>
                                 <SizePicker sizes={size} />

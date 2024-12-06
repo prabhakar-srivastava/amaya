@@ -1,6 +1,7 @@
 "use client"
 import Image from 'next/image'
 import React, { useState } from 'react'
+import Carousal from './carousal'
 
 function ThumbNailCarousal(props: { imgList: string[] }) {
     const [active, setActive] = useState<number>(0)
@@ -9,7 +10,7 @@ function ThumbNailCarousal(props: { imgList: string[] }) {
         props?.imgList?.length > 0 && (
             <div className='flex flex-col-reverse lg:flex-row gap-3'>
                 {/* image option picker */}
-                <div className='flex lg:flex-col gap-3 mx-4 lg:mx-0 overflow-scroll lg:h-max'>
+                <div className='hidden lg:flex lg:flex-col gap-3 mx-4 lg:mx-0 overflow-scroll lg:h-max'>
                     {props?.imgList?.map((res, index)=>{
                         return <div className={`${active===index?'border-2 border-black ':''}w-max h-max`} key={index}
                             onClick={()=>{
@@ -23,8 +24,12 @@ function ThumbNailCarousal(props: { imgList: string[] }) {
                 </div>
 
                 {/* selected image  */}
-                <div className=''>
+                <div className='hidden lg:block'>
                     <Image src={!activeImage?.length? props?.imgList?.[0]:activeImage} alt='' width={15000} height={15000} className='w-full h-[63vh] lg:h-[80vh]' />
+                </div>
+                {/* mobile view */}
+                <div className='block lg:hidden'>
+                    <Carousal imgList={props?.imgList} imgHeight='!h-[42rem]' />
                 </div>
             </div>
         )

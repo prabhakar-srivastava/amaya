@@ -5,10 +5,16 @@ import { LABLEPOSITION } from './collectionListCardStyle1'
 
 interface CollectionListCardStyle3Props {
   list: {
+    link: string;
     image: string;
     title: string;
     subTile: string;
-  };
+} | {
+    image: string;
+    title: string;
+    subTile: string;
+    link?: undefined;
+};
   index: number
   gridItemNumber: number
   lablePosition?:LABLEPOSITION
@@ -20,7 +26,7 @@ function CollectionListCardStyle2(props: CollectionListCardStyle3Props) {
   return (
     <div>
       {props?.index < props?.gridItemNumber && (
-        <div className={``}>
+        <a href={props?.list?.link} className={``}>
           <div className='relative '>
             <div className='w-full overflow-hidden'>
               <Image src={props?.list?.image || img3} alt='' width={5000} height={5000} className='w-full h-[33rem] lg:hover:scale-110  transition-all duration-500 object-fill cursor-pointer' />
@@ -31,7 +37,7 @@ function CollectionListCardStyle2(props: CollectionListCardStyle3Props) {
               <h1 className='text-sm font-sans tracking-widest'>{props?.list?.subTile}</h1>
             </div>
           </div>
-        </div>
+        </a>
       )}
     </div>
   )

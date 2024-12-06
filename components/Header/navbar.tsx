@@ -19,16 +19,16 @@ export  const nav = [
   },
   {
     name: 'Woman',
-    link: '/woman'
+    link: '/collections/woman'
   },
   {
     name: 'Man',
-    link: '/man'
+    link: '/collections/man'
   },
-  {
-    name: 'Kids',
-    link: '/kids'
-  },
+  // {
+  //   name: 'Kids',
+  //   link: '/kids'
+  // },
   {
     name: 'Sale',
     link: '/sale'
@@ -51,15 +51,15 @@ export  const nav = [
   },
   {
     name: 'Sarees',
-    link: '/'
+    link: '/shop?category=sarees'
   },
   {
     name: 'Exclusive',
-    link: '/'
+    link: '/shop?sort=latest'
   },
   {
     name: 'Popular',
-    link: '/'
+    link: '/shop?sort=popular'
   },
 ]
 

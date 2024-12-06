@@ -12,11 +12,17 @@ export enum CARDSTYLE {
 interface CollectionListProp {
     collections: {
         title: string;
-        items: {
+        items: ({
+            link: string;
             image: string;
             title: string;
             subTile: string;
-        }[];
+        } | {
+            image: string;
+            title: string;
+            subTile: string;
+            link?: undefined;
+        })[];
     }
     cardStyle: CARDSTYLE
     lablePosition: LABLEPOSITION

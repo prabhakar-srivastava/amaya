@@ -9,7 +9,7 @@ function page() {
     return (
         <div>
             <Section type={TYPE.CONTAIN} sectionStyle={'!py-0'}>
-                <h1 className='text-gray-500 text-xl font-sans mb-4'> <span className='font-serif text-3xl text-black'>NEW ARRIVALS  &nbsp; &nbsp;</span>Showing {lashaData?.lasha.length} Styles</h1>
+                <h1 className='text-gray-500 text-xl font-sans mb-4'> <span className='font-serif tracking-wider text-3xl text-black'>NEW ARRIVALS </span>- Showing {lashaData?.lasha.length} Styles</h1>
                 <div className='flex gap-28 '>
                     <Filters />
                     <div className=''>

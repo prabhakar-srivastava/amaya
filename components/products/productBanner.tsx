@@ -11,6 +11,7 @@ interface ProductBannerProps {
     description: string;
     actionLable: string;
     products: any[];
+    actionLink:string
 }
 
 function ProductBanner(props: ProductBannerProps) {
@@ -21,7 +22,7 @@ function ProductBanner(props: ProductBannerProps) {
                     <div className=''>
                         <h1 className='font-serif text-5xl leading-relaxed'>Best Designs By <br/>LASHA</h1>
                         <h1 className='my-12 max-w-96 text-sm'>{props?.description}</h1>
-                        <a href='' className='mt-5 border text-lg px-4 py-2 border-white hover:bg-black hover:border-black'>SHOP NOW</a>
+                        <a href={props?.actionLink} className='mt-5 border text-lg px-4 py-2 border-white hover:bg-black hover:border-black'>{props?.actionLable}</a>
                     </div>
                     <div className=' max-w-[55rem]'>
                         <Slider3D list={props?.products}/>

@@ -19,7 +19,7 @@ export default function Home() {
       <Promobanner />
       <CollectionList collections={tag.new} cardStyle={CARDSTYLE.STYLE1} lablePosition={LABLEPOSITION.ABSOLUTE} />
       <CollectionList collections={tag.exclusive} cardStyle={CARDSTYLE.STYLE2} lablePosition={LABLEPOSITION.RELATIVE} />
-      <ProductBanner tile={""} description={"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry"} actionLable={""} products={lashaData?.lasha} />
+      <ProductBanner tile={""} description={"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry"} actionLable={"SHOP NOW"} actionLink="/designers/lasha" products={lashaData?.lasha} />
       <CollectionList collections={tag.Occasion} cardStyle={CARDSTYLE.STYLE4} lablePosition={LABLEPOSITION.ABSOLUTE} />
       <Accordion />
       <CollectionList collections={tag.Occasion} cardStyle={CARDSTYLE.STYLE3} lablePosition={LABLEPOSITION.ABSOLUTE} />
