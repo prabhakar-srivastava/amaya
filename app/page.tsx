@@ -7,11 +7,13 @@ import Category from "@/components/Category/category";
 import CollectionList, { CARDSTYLE } from "@/components/Collections/collectionList";
 import { LABLEPOSITION } from "@/components/Collections/collectionListCardStyle1";
 import ProductBanner from "@/components/products/productBanner";
+import { getProductList } from "@/lib/actions/firebaseAction";
 import tag from '@/utils/JSON/collection.json';
 import lashaData from '@/utils/JSON/lasha.json'
 
 
-export default function Home() {
+export default async function Home() {
+  // const productList= await getProductList()
   return (
     <div className="">
       <Carousal />

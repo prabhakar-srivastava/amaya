@@ -16,7 +16,7 @@ function SizePicker(props:any) {
             <div className='flex gap-4 mt-4 flex-wrap'>
                 {
                     Object.keys(props?.sizes).map((res, index) => {
-                        return <div key={index} className={`cursor-pointer rounded border ${selsctedSize===res ? "border-gray-500":"border-gray-300"}  px-4 py-2`} onClick={()=>{setSize(props?.sizes[res])
+                        return <div key={index} className={`cursor-pointer rounded border ${selsctedSize===res ? "border-black":"border-gray-300"}  px-4 py-2`} onClick={()=>{setSize(props?.sizes[res])
                             setSelectedSize(res)
                         }}>
                             {res.toUpperCase()}

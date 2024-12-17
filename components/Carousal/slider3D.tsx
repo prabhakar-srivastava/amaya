@@ -8,6 +8,7 @@ import { EffectCoverflow, Navigation, Pagination, Autoplay } from 'swiper/module
 import { Swiper, SwiperSlide } from 'swiper/react'
 import ProductCardStyle1 from '../products/productCardStyle1'
 import ProductCardStyle2 from '../products/productCardStyle2'
+import { addPost } from '@/lib/actions/firebaseAction'
 
 function Slider3D(props: any) {
     return (
@@ -32,12 +33,13 @@ function Slider3D(props: any) {
                     props?.list.map((res:any, index: React.Key | null | undefined) => {
                         return (
                             <SwiperSlide key={index} className=''>
-                                <ProductCardStyle2 productImage={res?.image?.[0]}   uid={res?.uid} />
+                                <ProductCardStyle2 productImage={res?.image?.[0]}   uid={res?.id} />
                             </SwiperSlide>
                         )
                     })
                 }
             </Swiper>
+            <button onClick={()=>addPost()}>addd</button>
         </div>
     )
 }

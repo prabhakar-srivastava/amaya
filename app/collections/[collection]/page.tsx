@@ -8,8 +8,10 @@ import Section,{ TYPE } from '@/components/Section/section'
 import lashaData from '@/utils/JSON/lasha.json'
 import tag from '@/utils/JSON/collection.json';
 import React from 'react'
+import { getProductList } from '@/lib/actions/firebaseAction'
 
-function page() {
+async function page() {
+    const productList= await getProductList()
   return (
     <div>
       <Carousal />
@@ -37,9 +39,9 @@ function page() {
 
 
             <div className='flex flex-wrap gap-12 my-20 m-auto justify-evenly'>
-                {lashaData?.lasha?.map((res, index) => {
+                {(productList||lashaData?.lasha).map((res:any, index:number) => {
                     return <div className='' key={index}>
-                        <ProductCardStyle2 productImage={res?.image?.[0]} designer={res?.designer} productName={res?.product_name} mpr={res?.mrp} uid={res?.uid} />
+                        <ProductCardStyle2 productImage={res?.image?.[0]} designer={res?.designer} productName={res?.product_name} mpr={res?.mrp} uid={res?.id} />
                     </div>
                 })}
             </div>

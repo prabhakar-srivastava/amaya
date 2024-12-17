@@ -1,7 +1,4 @@
-import 'swiper/css';
-import 'swiper/css/effect-coverflow';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
+
 import Slider3D from '../Carousal/slider3D';
 import Section, { TYPE } from '../Section/section';
 

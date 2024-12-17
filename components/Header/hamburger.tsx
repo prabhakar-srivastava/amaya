@@ -24,7 +24,7 @@ function Hamburger() {
         </div>
         <div className=' mx-6 mt-3 flex flex-col overflow-y-scroll mb-6'>
           {nav.map((res, index, arr) => {
-            return <Link href={res.link} className={`cursor-pointer flex justify-between items-center w-full border-gray-10 ${index === 0 ? '' : 'border-t-2'} py-3 `} key={index}>
+            return <Link  href={res.link} className={`cursor-pointer flex justify-between items-center w-full border-gray-10 ${index === 0 ? '' : 'border-t-2'} py-3 `} key={index}>
               <h1 className='  font-serif font-light hover:text-red-500 w-full '>{res.name}</h1>
               <div className='font-thin'><LucideArrowUpRightFromSquare /></div>
             </Link>
