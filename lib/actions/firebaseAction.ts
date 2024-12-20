@@ -11,9 +11,7 @@ const addPost=async ()=>{
             ...item,
             createdBy:serverTimestamp(),
             updatedBy:serverTimestamp()
-
         }
-
         const docRef=doc(collection(db,'products'))
         batch.set(docRef,data)
     })

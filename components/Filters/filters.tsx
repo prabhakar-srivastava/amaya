@@ -21,9 +21,9 @@ function Filters() {
 
 
     return (
-        <div className='w-[600px]'>
+        <div className=' h-[600px] overflow-scroll bg-gray-100 rounded-md px-6 py-4 shadow-slate-400 shadow-lg'>
             <div className='mb-6'>
-                <h1 className='font-serif  py-2 border-b-2 border-gray-300 mb-4'>Category</h1>
+                <h1 className='font-serif py-2 border-b-2 border-gray-300 mb-4'>Category</h1>
                 {filter.category.map((res, index) => {
                     return <div key={index} className='text-sm flex  gap-2 text-gray-700 tracking-wider leading-8'>
                         <input id='filter' type='checkbox' value={res} />
@@ -71,7 +71,7 @@ function Filters() {
                 <h1 className='font-serif  py-2 border-b-2 border-gray-300 mb-4'>Size</h1>
                 <div className='flex gap-2 flex-wrap'>
                     {filter.size.map((res, index) => {
-                        return <div key={index} className='px-4 py-2 border-2 border-gray-200 w-max'>
+                        return <div key={index} className='px-4 py-2 border-2 bg-white border-gray-200 w-max'>
                             {/* <input id='filter' type='checkbox' value={res} /> */}
                             <h1>{res}</h1>
                         </div>

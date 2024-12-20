@@ -39,8 +39,8 @@ const id= await params?.productID
         <div className=''>
         
                 <Section type={TYPE.CONTAIN} sectionStyle={'!py-0  lg:!px-20'}>
-                    <div className='lg:grid grid-cols-2'>
-                        <div className=''>
+                    <div className='relative lg:grid grid-cols-2'>
+                        <div className=' sticky top-28 h-max'>
                             <ThumbNailCarousal imgList={data?.image} />
                         </div>
                         <div className='px-4 mt-6 lg:mt-0'>
@@ -118,15 +118,15 @@ const id= await params?.productID
 
                                 </div>
                                 <div className=' flex flex-col lg:flex-row gap-4 lg:gap-6 mt-4'>
-                                    <div className='flex items-center justify-center gap-2 border hover:bg-black hover:text-white cursor-pointer border-black rounded px-2 py-1 text-sm'>
+                                    <div className='flex items-center justify-center gap-2 border hover:bg-black transition-all duration-300 hover:text-white cursor-pointer border-black rounded px-2 py-1 text-sm'>
                                         <Image src="/whatsapp.png" alt="logo" width={100} height={100} className='w-4 h-4' />
                                         <h1 className=''>chat with us</h1>
                                     </div>
-                                    <div className='flex items-center justify-center gap-2 border hover:bg-black hover:text-white cursor-pointer border-black rounded px-2 py-1 text-sm'>
+                                    <div className='flex items-center justify-center gap-2 border hover:bg-black transition-all duration-300 hover:text-white cursor-pointer border-black rounded px-2 py-1 text-sm'>
                                         <Phone className='w-3' />
                                         <h1 className=''>+91 | 7766800886</h1>
                                     </div>
-                                    <div className='flex items-center justify-center gap-2 border hover:bg-black hover:text-white cursor-pointer border-black rounded px-2 py-1 text-sm'>
+                                    <div className='flex items-center justify-center gap-2 border hover:bg-black transition-all duration-300 hover:text-white cursor-pointer border-black rounded px-2 py-1 text-sm'>
                                         <Mail className='w-3' />
                                         <h1 className=''>Mail us</h1>
                                     </div>

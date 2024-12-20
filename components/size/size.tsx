@@ -15,7 +15,7 @@ function Size() {
             </div>
             {show && (
                 <div className='fixed z-50 w-full h-screen top-0 left-0 bg-black bg-opacity-75 backdrop-blur-sm'>
-                    <div className='absolute  -translate-y-1/2 left-1/2 -translate-x-1/2 top-1/2 bg-white shadow-2xl rounded-md p-4'>
+                    <div className='absolute -translate-y-1/2 left-1/2 -translate-x-1/2 top-1/2 bg-white shadow-2xl rounded-md p-4'>
                         <div className='flex justify-between'>
                             <h1 className='font-semibold text-2xl tracking-wide'>Size Guide</h1>
                             <h1 className='cursor-pointer' onClick={() => { setShow(false) }}><X /></h1>

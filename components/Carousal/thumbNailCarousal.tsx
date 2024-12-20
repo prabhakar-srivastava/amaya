@@ -7,11 +7,12 @@ import Carousal from './carousal'
 function ThumbNailCarousal(props: { imgList: string[] }) {
     const [active, setActive] = useState<number>(0)
     const [activeImage, setActiveImage] = useState<string>()
+    
     return (
         props?.imgList?.length > 0 && (
             <div className='flex flex-col-reverse lg:flex-row gap-3'>
                 {/* image option picker */}
-                <div className='hidden lg:flex lg:flex-col gap-3 mx-4 lg:mx-0 overflow-scroll lg:h-max'>
+                <div className='hidden transition-all scroll-m-2 lg:flex lg:flex-col gap-3 mx-4 lg:mx-0 overflow-scroll lg:h-[500px]'>
                     {props?.imgList?.map((res, index) => {
                         return <div className={`${active === index ? 'border-2 border-black ' : ''}w-max h-max`} key={index}
                             onClick={() => {
