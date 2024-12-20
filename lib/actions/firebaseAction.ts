@@ -1,8 +1,8 @@
 "use server"
 
+import items from "@/utils/JSON/lasha.json";
+import { collection, doc, getDocs, serverTimestamp, writeBatch } from "firebase/firestore";
 import { db } from "../config/firebase";
-import { addDoc,collection, doc, getDocs, serverTimestamp, writeBatch } from "firebase/firestore";
-import items from "@/utils/JSON/lasha.json"
 
 const addPost=async ()=>{
     const batch= writeBatch(db)
@@ -30,4 +30,4 @@ const getProductList=async ()=>{
       return productList
 }
 
-export {addPost,getProductList}
+export { addPost, getProductList };

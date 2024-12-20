@@ -2,22 +2,22 @@
     "lasha":[
         {
             "link":"/designers/lasha",
-            "sno":1,
-            "uid":"LSHA042447",
-            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1731051202/IMG_2515-02_gx6xkv.jpg"],
-            "vendor":"DS03PI",
+            "sno":11,
+            "uid":"LSHA042437",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734482267/m0qc2zxul2aoylfwc3ir.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734482269/pu0auofqu9u8jnfvewaq.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734482268/bzav1pacxwqwyla5yezy.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734482269/qxuildc6rdope2yp8g8e.jpg"],
+            "vendor":"SS03RS",
             "designer":"lasha",
             "design_owner":"Abhilasha",
             "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
             "country":"India",
-            "product_name":"Peach Italian Satin Pre-Draped Saree Set",
-            "description":"Featuring a peach pre-draped saree in italian satin base. It is paired with a blouse having cutdana and glass bead work. Accentuate with statement jewellery and heels for a wedding or sangeet ceremony.",
-            "components":"2 (Pre-Draped saree, Blouse)",
+            "product_name":"Red Chiffon Hand Embroidered Kurta Set",
+            "description":"Featuring a red kurta in chiffon base with embedded thread and zardosi hand embroidery. It is paired with a skirt and a dupatta. Accentuate with statement jewellery and heels for pre-wedding ceremony.",
+            "components":"3 (Kurta, Skirt, Dupatta)",
             "fit":"Fitted at bust and waist.",
-            "composition":"Italian satin.",
+            "composition":"Chiffon.",
             "care":"Dry clean only.",
             "collection":["",""],
-            "mrp":41500,
+            "mrp":21000,
             "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
             "discount":0,
             "discount_option":[""],
@@ -64,22 +64,22 @@
         },
         {
             "link":"/designers/lasha",
-            "sno":2,
-            "uid":"LSHA042446",
-            "image":[""],
-            "vendor":"LJH02F",
+            "sno":12,
+            "uid":"LSHA042436",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734482392/030A7907-01_kjkowj.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734482392/030A7910-01_epkgrn.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734482393/030A7920-01_dfyayp.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734482393/030A7918-01_mcznme.jpg"],
+            "vendor":"SS03MC",
             "designer":"lasha",
             "design_owner":"Abhilasha",
             "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
             "country":"India",
-            "product_name":"Ivory Organza Anarkali With Jacket",
-            "description":"Featuring an ivory jacket in organza base with pearl and thread work. It is paired with a pleated anarkali. Accentuate with statement jewellery and heels for a festive look.",
-            "components":"2 (Jacket, Anarkali)",
+            "product_name":"Pink Silk Sequins Hand Embroidered Kurta Set",
+            "description":"Featuring a pink kurta in silk base with embedded thread, dabka and sequins hand embroidery. It is paired with pants and a dupatta. Accentuate with statement jewellery and heels for pre-wedding ceremony.",
+            "components":"3 (Kurta, Pants, Dupatta)",
             "fit":"Fitted at bust and waist.",
-            "composition":"Organza.",
+            "composition":"Silk.",
             "care":"Dry clean only.",
             "collection":["",""],
-            "mrp":43500,
+            "mrp":21000,
             "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
             "discount":0,
             "discount_option":[""],
@@ -126,22 +126,22 @@
         },
         {
             "link":"/designers/lasha",
-            "sno":3,
-            "uid":"LSHA042445",
-            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1731051528/IMG_2409-01_goolmy.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731051529/IMG_2400-01_wpbsae.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731051529/IMG_2394-01_wkjdgy.jpg"],
-            "vendor":"CO03IG",
+            "sno":13,
+            "uid":"LSHA042435",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734482519/030A7952_2-01_vmfkq5.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734482518/030A7947-02_ykweqv.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734482519/030A7983-02_lnqa1g.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734482523/030A7950-01_ulyu5c.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734482517/030A7945-02_ywxl8o.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734482517/030A7956-01_oq904z.jpg"],
+            "vendor":"AA02R",
             "designer":"lasha",
             "design_owner":"Abhilasha",
             "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
             "country":"India",
-            "product_name":"Ivory Satin Organza Zardosi Work Jacket Set",
-            "description":"Featuring an ivory handcrafted peplum jacket in satin organza and organza base with pearl and zardosi work. It is paired with embroidered pants. Accentuate with statement jewellery and heels for an evening look.",
-            "components":"2 (Jacket, Pants)",
-            "fit":"Fitted at bust and waist.",
-            "composition":"Satin organza, Organza.",
+            "product_name":"Red Georgette Sequins Hand Embroidered Anarkali Set",
+            "description":"Featuring a red anarkali in georgette base with embedded sequins, glass beads, cutdana and thread hand embroidery. It is paired with a dupatta. Accentuate with statement jewellery and heels for a wedding ceremony.",
+            "components":"2 (Anarkali, Dupatta)",
+            "fit":"Fitted at bust.",
+            "composition":"Georgette.",
             "care":"Dry clean only.",
             "collection":["",""],
-            "mrp":39500,
+            "mrp":29500,
             "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
             "discount":0,
             "discount_option":[""],
@@ -188,22 +188,22 @@
         },
         {
             "link":"/designers/lasha",
-            "sno":4,
-            "uid":"LSHA042444",
-            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1731051616/IMG_2436s_i4270b.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731051626/IMG_2431-01_esx8sg.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731051616/IMG_2440-02_bstogq.jpg"],
-            "vendor":"CO03IB",
+            "sno":14,
+            "uid":"LSHA042434",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734483315/1000119906-01_w0oik6.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483317/1000119933-02_ykjk6t.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483316/1000119914-01_rvuryz.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483317/1000119993-01_zzvtsg.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483317/1000119999-03_vx5uiq.jpg"],
+            "vendor":"KF02R",
             "designer":"lasha",
             "design_owner":"Abhilasha",
             "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
             "country":"India",
-            "product_name":"Ice Blue Satin Organza Cutdana Hand Embroidered Jacket Set",
-            "description":"Featuring an ice blue peplum jacket in satin organza and organza base with cutdana and sequins hand embroidery. It is paired with a bustier and embroidered pants. Accentuate with statement jewellery and heels for an evening look.",
-            "components":"3 (Jacket, Pants, Bustier)",
+            "product_name":"Maroon Crepe Draped Skirt Set",
+            "description":"Featuring a maroon kaftan top in crepe base with thread and zardosi hand embroidery. It is paired with a draped skirt. Accentuate with statement jewellery and heels for festive occasions.",
+            "components":"2 (Kaftan top, Skirt)",
             "fit":"Fitted at bust and waist.",
-            "composition":"Satin organza, Organza.",
+            "composition":"Crepe.",
             "care":"Dry clean only.",
             "collection":["",""],
-            "mrp":39500,
+            "mrp":20000,
             "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
             "discount":0,
             "discount_option":[""],
@@ -250,17 +250,17 @@
         },
         {
             "link":"/designers/lasha",
-            "sno":5,
-            "uid":"LSHA042443",
-            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1731051694/030A7101-01_srfaew.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731051703/030A7102-02_yazhq6.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731051695/030A7106-01_c2xcec.jpg"],
-            "vendor":"DS03TP",
+            "sno":15,
+            "uid":"LSHA042433",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734483507/030A7781-02_havaku.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483504/030A7768-01_tjpmbl.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483506/030A7780-01_lwevr6.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483515/030A7773-01_docibr.jpg"],
+            "vendor":"CC03MP",
             "designer":"lasha",
             "design_owner":"Abhilasha",
             "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
             "country":"India",
-            "product_name":"Peach Organza Pre-Draped Skirt Saree Set",
-            "description":"Featuring a peach pre-draped skirt saree in organza base. It is paired with a ruffled drape, a belt and a blouse having swarovski and glass bead work. Accentuate with statement jewellery and heels for a wedding or mehendi ceremony.",
-            "components":"4 (Skirt saree, Blouse, Belt, Drape)",
+            "product_name":"Pink Organza Sequins Hand Embroidered Jacket Set",
+            "description":"Featuring a pink jacket in organza base with embedded glass bead, sequins and cutdana hand embroidery. It is paired with layered pants and a bustier. Accentuate with statement jewellery and heels for a sangeet ceremony.",
+            "components":"3 (Blouse, Jacket, Pants)",
             "fit":"Fitted at bust and waist.",
             "composition":"Organza.",
             "care":"Dry clean only.",
@@ -312,17 +312,1629 @@
         },
         {
             "link":"/designers/lasha",
-            "sno":6,
-            "uid":"LSHA042442",
-            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1731051922/030A7292-01_ccc91l.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731051922/030A7288_2-01_u4fcyt.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731051924/030A7300-01_vsotrz.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731051922/030A7294-02_ra2z03.jpg"],
-            "vendor":"DS02LY",
+            "sno":16,
+            "uid":"LSHA042432",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734483605/030A7797-02-02_efetxy.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483606/030A7812-01_q416vp.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483607/030A7784-01_bodddz.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483605/030A7795-01_tyqf0v.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483602/030A7789-01_lptmmi.jpg"],
+            "vendor":"LJ03OP",
             "designer":"lasha",
             "design_owner":"Abhilasha",
             "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
             "country":"India",
-            "product_name":"Lime Yellow Organza & Crepe Ruffled Pre-Draped Saree Set",
-            "description":"Featuring a lime yellow pre-draped ruffled saree in organza and crepe base. It is paired with a hand embroidered blouse having sequins, cutdana and pearl embedded. Accentuate with statement jewellery and heels for a wedding or mehendi ceremony.",
+            "product_name":"Pink Organza Pearl Hand Embroidered Jacket Set",
+            "description":"Featuring a pink jacket in organza base with pearl and thread hand embroidery. It is paired with a crinkled skirt, a belt and a blouse. Accentuate with statement jewellery and heels for a wedding or sangeet ceremony.",
+            "components":"4 (Skirt, Blouse, Jacket, Belt)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Organza.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":38000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":17,
+            "uid":"LSHA042431",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734483763/1000120533-01_edx0ce.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483764/1000120027-01-01_vf2nmp.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483765/1000119985-01-01_vh3mqu.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483764/1000119984-02-01_kjbce1.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483763/1000119979-02_eqynoo.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483761/1000119975-02_doe3i2.jpg"],
+            "vendor":"DS03B",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Black Organza Skirt Saree Set",
+            "description":"Featuring a black layered skirt saree in organza base. It is paired with a hand-embroidered blouse, including a net and tulle drape having sequins, cutdana and glass bead work . Accentuate with statement jewellery and heels for a wedding or sangeet ceremony.",
+            "components":"3 (Skirt saree, Blouse, Drape)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Organza, Tulle, Net.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":37500,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":18,
+            "uid":"LSHA042430",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734483893/1000120036-02_txfizt.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483892/1000119992-01_wvioyr.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483895/1000120037-03_btxzz5.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483896/1000120039-01_lztncj.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734483892/1000119991-01_pfkhqc.jpg"],
+            "vendor":"LL02EB",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Royal Blue Georgette & Net Draped Fish-Cut Lehenga Set",
+            "description":"Featuring a royal blue draped fish-cut lehenga in georgette and net base. It is paired with a hand-embroidered blouse having embedded sequins, glass beads and swarovski work. Accentuate with statement jewellery and heels for a wedding or sangeet ceremony.",
+            "components":"2 (Draped lehenga, Blouse)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Georgette, Net.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":39500,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":19,
+            "uid":"LSHA042429",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734484010/030A7726-02_skfk5y.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484013/030A7732-01_brhete.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484014/030A7736-01_rkw8fi.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484009/_storage_emulated_0_DCIM_Snapseed_1000122222-01_zycx3q.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484009/030A7712_2-01_mr87qy.jpg"],
+            "vendor":"LL03LG",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Lime Green Silk Mirror Hand Embellished Lehenga Set",
+            "description":"Featuring a lime green lehenga in silk base with zari and mirror hand embellishment. It is paired with a blouse and an organza dupatta. Accentuate with statement jewellery and heels for a wedding or mehendi ceremony.",
+            "components":"3 (Lehenga, Blouse, Dupatta)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Silk, Organza.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":42000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":20,
+            "uid":"LSHA042428",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734484132/1000121178-01_vvkilt.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484131/1000121177-02_wvek5g.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484131/1000121179-01_l424fi.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484129/1000121176-01_u6u3xj.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484128/1000120031-01_zvdzre.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484127/1000122233-01_nplczk.jpg"],
+            "vendor":"LL03MC",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Multi-Colored Dola Silk & Net Mirror Embroidered Lehenga Set",
+            "description":"Featuring a multi-colored lehenga in dola silk and net base with embedded zari, pearl and mirror embroidery. It is paired with a blouse and a shaded dupatta. Accentuate with statement jewellery and heels for a wedding or sangeet ceremony.",
+            "components":"3 (Lehenga, Blouse, Dupatta)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Dola silk, Net.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":40000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":21,
+            "uid":"LSHA042427",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734484265/030A7311-01_kyvfuy.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484266/030A7334-01_hwlfis.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484267/030A7340-01_hiwoeu.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484270/030A7345_2-1-02_lmlilx.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484270/030A7324-01_dknce5.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734484271/030A7327_2-01_bzjlms.jpg"],
+            "vendor":"AA02SG",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Sage Green Crushed Silk Hand Embroidered Anarkali Set",
+            "description":"Featuring a sage green anarkali in crushed silk base with embedded sequins, cutdana and dabka, including hand embroidery. It is paired with an organza dupatta. Accentuate with statement jewellery and heels for a mehendi ceremony.",
+            "components":"2 (Anarkali, Dupatta)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Crushed silk, Organza.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":36000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":22,
+            "uid":"LSHA042426",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734486270/030A7381-01_hifya4.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486270/030A7382-02_favwsn.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486282/030A7358_2-01-01_gszcxg.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486278/030A7389-03_mkwela.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486275/030A7387-01_e3aoz3.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486275/030A7393-01_mliznn.jpg"],
+            "vendor":"AA02PP",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Nude Pink Georgette Sequins Hand Embroidered Anarkali Set",
+            "description":"Featuring a nude pink anarkali in georgette base with embedded sequins, cutdana, thread and glass bead hand embroidery. It is paired with a dupatta. Accentuate with statement jewellery and heels for a sangeet ceremony.",
+            "components":"2 (Anarkali, Dupatta)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Georgette.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":33000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":23,
+            "uid":"LSHA042425",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734486432/030A7412-02_bs0xru.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486431/030A7411_2-01_t5xhsv.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486429/030A7424-01_sgw1bq.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486428/030A7417-01_i1ikg6.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486427/030A7414-01_ifkydg.jpg"],
+            "vendor":"AA02IB",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Ice Blue Georgette Sequins Hand Embroidered Anarkali Set",
+            "description":"Featuring an ice blue anarkali in georgette base with embedded sequins, cutdana and glass bead hand embroidery. It is paired with a net dupatta. Accentuate with statement jewellery and heels for a sangeet ceremony.",
+            "components":"2 (Anarkali, Dupatta)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Georgette, Net",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":36000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":24,
+            "uid":"LSHA042424",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734486589/030A7052-01_trga8y.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486591/030A7053_2-01_uyatqw.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486592/030A7065-01_mrsdp2.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486587/030A7047_2-01_u0ovfr.jpg"],
+            "vendor":"DS02CW",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Beige Sequins Lycra Pre-Draped Saree Set",
+            "description":"Featuring a beige pre-draped saree in sequins lycra and net base. It is paired with a hand-tasselled blouse having swarovski and glass bead hand embroidery. Accentuate with statement jewellery and heels for a wedding or sangeet ceremony.",
             "components":"2 (Pre-Draped saree, Blouse)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Sequins lycra, Net.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":30500,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":25,
+            "uid":"LSHA042423",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734486693/1000119943-04_tlrvlq.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486692/030A7140_2-01_qf4ymx.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486696/All_in_One.00_12_31_22.Still003_fyuqk3.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486697/1000119944-01_lx2f5b.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486697/1000120001-02_sjqmje.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486699/1000119946-03_ywuh2e.jpg"],
+            "vendor":"CC03PD",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Pink Italian Satin Draped Skirt Set",
+            "description":"Featuring a pink draped skirt in italian satin and net base. It is paired with a hand-embroidered corset and a cape having swarovski, sequins and cutdana work. Accentuate with statement jewellery and heels for a wedding or sangeet ceremony.",
+            "components":"3 (Skirt, Corset, Cape)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Italian satin, Net.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":36000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":26,
+            "uid":"LSHA042422",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734486779/030A7171-01_hjw8bz.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486781/030A7176-01_cerftw.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486783/030A7183-01_gnobbo.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486784/1000122217-01_f1vbr1.jpg"],
+            "vendor":"DS03CW",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Ivory Organza & Net Embroidered Jacket Saree Set",
+            "description":"Featuring an ivory ruffled skirt saree in organza and net base. It is paired with a blouse, a ruffled drape and a cape having cutdana hand embroidery. Accentuate with statement jewellery and heels for a wedding or sangeet ceremony.",
+            "components":"4 (Skirt saree, Blouse, Drape, Cape)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Organza, Net.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":25000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":27,
+            "uid":"LSHA042421",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734486876/1711299473107-01_btiwbo.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486879/1711301781457-01_xaslor.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486882/All_in_One.00_01_06_11.Still004_jnxqfx.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486875/1000118997-02_egd5io.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486871/1000118996-02_uo2gzr.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734486868/1000118995-02_lmtyo2.jpg"],
+            "vendor":"DS03W",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Ivory Georgette & Net Embroidered Pre-Draped Lehenga Saree Set",
+            "description":"Featuring an ivory pre-draped lehenga saree in georgette and net base with embroidery. It is paired with a blouse having crystal, cutdana and sequins work, including a hand-embroidered tulle drape. Accentuate with statement jewellery and heels for a wedding or sangeet ceremony.",
+            "components":"3 (Pre-draped saree, Blouse, Drape)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Georgette, Net, Tulle.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":36000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":28,
+            "uid":"LSHA022420",
+            "image":[""],
+            "vendor":"CP02Y",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Yellow Chinon Hand Embroidered Co-Ord Set",
+            "description":"Featuring a yellow crop top in chinon base with thread hand embroidery. It is paired with handmade tasselled pants. Accentuate with statement earrings and heels for a cocktail party or festive occasion.",
+            "components":"2 (Crop top, Pants)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Chinon.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":21000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":29,
+            "uid":"LSHA022419",
+            "image":[""],
+            "vendor":"CD03Y",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Mustard Yellow Crepe Dhoti Skirt Set",
+            "description":"Featuring a mustard yellow cape in organza base with hand embroidery. It is paired with a tassel embroidered blouse and a crepe dhoti skirt. Accentuate with statement earrings and heels for a cocktail party, sangeet or engagement ceremony.",
+            "components":"3 (Skirt, Blouse, Cape)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Organza, Crepe.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":27000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":30,
+            "uid":"LSHA022418",
+            "image":[""],
+            "vendor":"CL03Y",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Mango Yellow Organza Bead Embroidered Jacket Lehenga Set",
+            "description":"Featuring a mango yellow lehenga in organza base. It is paired with an embroidered blouse and a cape having white beaded embroidery. Accentuate with statement earrings and heels for a cocktail party, sangeet or engagement ceremony.",
+            "components":"3 (Lehenga, Blouse, Cape)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Organza.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":34000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":31,
+            "uid":"LSHA022417",
+            "image":[""],
+            "vendor":"LJ03F",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Fuschia Organza Hand Embroidered Jacket Set",
+            "description":"Featuring a fuchsia long jacket in organza base hand embroidery. It is paired with a bustier and a georgette pleated skirt. Accentuate with statement earrings and heels for a wedding or engagement ceremony.",
+            "components":"3 (Jacket, Bustier, Skirt)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Organza, Georgette.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":39000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":32,
+            "uid":"LSHA022416",
+            "image":[""],
+            "vendor":"CO11G",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Mouse Grey Organza Embellished Jacket Set",
+            "description":"Featuring a mouse grey jacket in organza base with silver embellishments. It is paired with a bemberg satin inner, pants and an overlapped belt. Accentuate with statement earrings and heels for a complete look.",
+            "components":"4 (Jacket, Inner, Pants, Belt)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Organza, Bemberg satin.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":21000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":33,
+            "uid":"LSHA022415",
+            "image":[""],
+            "vendor":"KF02W",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"White Cotton Silk Dabka Embroidered Kaftan Set",
+            "description":"Featuring a white kaftan in cotton silk base with embroidery. It is paired with a dhoti skirt. Accentuate with statement earrings and heels for a sangeet ceremony or cocktail party.",
+            "components":"2 (Kaftan, Skirt)",
+            "fit":"Fitted at bust and waist.",
+            "composition":" Cotton silk.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":18000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":34,
+            "uid":"LSHA022414",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734487156/1000119906-01_pplg3g.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734487162/1000119933-02_il3mfm.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734487161/1000119999-03_z645ut.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734487159/1000119993-01_srzzl1.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734487157/1000119914-01_vxbb5j.jpg"],
+            "vendor":"KF02R",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Red Cotton Silk Dabka Embroidered Kaftan Set",
+            "description":"Featuring a red kaftan in cotton silk base with embroidery. It is paired with a dhoti skirt. Accentuate with statement earrings and heels for a sangeet ceremony or cocktail party.",
+            "components":"2 (Kaftan, Skirt)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Cotton silk.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":18500,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":35,
+            "uid":"LSHA022413",
+            "image":[""],
+            "vendor":"KF02PD",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Fuschia Pink Cotton Silk Dabka Embroidered Kaftan Set",
+            "description":"Featuring a fuchsia pink kaftan in cotton silk base with dabka embroidery. It is paired with a dhoti skirt. Accentuate with statement earrings and heels for a sangeet ceremony or cocktail party.",
+            "components":"2 (Kaftan, Skirt)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Cotton silk.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":17500,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":36,
+            "uid":"LSHA022412",
+            "image":[""],
+            "vendor":"CSD03B",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Black Crepe & Organza Ruffled Lehenga Set",
+            "description":"Featuring a black ruffled lehenga in crepe and organza base. It is paired with an embroidered corset blouse and a tulle embroidered drape. Accentuate with statement earrings and heels for a sangeet ceremony or cocktail party.",
+            "components":"3 (Lehenga, Corset, Drape)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Organza, Crepe, Tulle.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":35000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":37,
+            "uid":"LSHA022411",
+            "image":[""],
+            "vendor":"CD03B",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Black Italian Satin Dhoti Skirt Set",
+            "description":"Featuring a black cape in organza base with embroidery. It is paired with an embroidered corset blouse and an italian satin dhoti skirt. Accentuate with statement earrings and heels for a sangeet ceremony or cocktail party.",
+            "components":"3 (Cape, Corset, Dhoti skirt)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Organza, Italian satin.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":33500,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":38,
+            "uid":"LSHA022410",
+            "image":[""],
+            "vendor":"SS03EB",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Electric Blue Satin Organza Ruffled Lehenga Set",
+            "description":"Featuring an electric blue ruffled lehenga in satin organza and net base. It is paired with an embroidered blouse and a sash. Accentuate with statement earrings and heels for a complete look for a wedding, sangeet or engagement ceremonies.",
+            "components":"3 (Lehenga, Blouse, Sash)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Satin organza, Net.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":35000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":39,
+            "uid":"LSHA022409",
+            "image":[""],
+            "vendor":"DS03GG",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Gold Georgette Hand Embroidered Pre-Draped Saree Set",
+            "description":"Featuring a gold pre-draped saree in georgette and net base with hand embroidery. It is paired with an embroidered blouse. Accentuate with statement earrings and heels for a complete look for a wedding, sangeet or engagement ceremonies.",
+            "components":"2 (Saree, Blouse)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Tulle, Georgette, Net.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":44000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":40,
+            "uid":"LSHA022408",
+            "image":[""],
+            "vendor":"CL03Y",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Ice-Grey Georgette Hand Embroidered Pre-Draped Saree Set",
+            "description":"Featuring an ice-grey pre-draped saree in georgette and tulle base with hand embroidery. It is paired with an embroidered blouse and a detachable drape. Accentuate with statement earrings and heels for a complete look for a wedding, sangeet or engagement ceremonies.",
+            "components":"3 (Saree, Blouse, Drape)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Tulle, Georgette.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":38500,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":41,
+            "uid":"LSHA022407",
+            "image":[""],
+            "vendor":"CL03PS",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Peach Shaded Organza Hand Embroidered Cape Set",
+            "description":"Featuring a peach shaded cape in organza base with hand embroidery. It is paired with a blouse and a skirt. Accentuate with statement earrings and heels for a complete look for a wedding or engagement ceremonies.",
+            "components":"3 (Cape, Blouse, Skirt)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Organza.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":22000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":42,
+            "uid":"LSHA022406",
+            "image":[""],
+            "vendor":"DC05R",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Red Crepe Hand Embroidered Draped Lehenga Set",
+            "description":"Featuring a red lehenga in crepe base. It is paired with a blouse, a detachable hand embroidered drape, an organza cape and a belt. Accentuate with statement earrings and heels for a complete look for a wedding or engagement ceremonies.",
+            "components":"5 (Lehenga, Blouse, Drape, Cape, Belt)",
             "fit":"Fitted at bust and waist.",
             "composition":"Organza, Crepe.",
             "care":"Dry clean only.",
@@ -374,22 +1986,22 @@
         },
         {
             "link":"/designers/lasha",
-            "sno":7,
-            "uid":"LSHA042441",
-            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1731052034/030A7246-01_sjueku.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052043/030A7250-01_p2mbba.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052037/1000122224-02_xpozyd.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052037/030A7261-02_w6wlgk.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052035/030A7255-01_qmkmgd.jpg"],
-            "vendor":"DC03LG",
+            "sno":43,
+            "uid":"LSHA022405",
+            "image":[""],
+            "vendor":"SD03W",
             "designer":"lasha",
             "design_owner":"Abhilasha",
             "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
             "country":"India",
-            "product_name":"Lime Green Italian Satin Hand Embroidered Cape Set",
-            "description":"Featuring a lime green draped skirt in italian satin, net and satin organza base. It is paired with a hand-embroidered cape and a blouse having sequins and cutdana embellishment. Accentuate with statement jewellery and heels for pre-wedding ceremony.",
-            "components":"2 (Pre-Draped saree, Blouse)",
-            "fit":"3 (Cape, Draped skirt, Blouse)",
-            "composition":"Italian satin, Net, Satin organza.",
+            "product_name":"Off-white Georgette Beads Hand Embroidered Draped Layered Lehenga Set",
+            "description":"Featuring an off-white layered lehenga in georgette and net base. It is paired with a blouse having beads hand embroidery and a detachable drape. Accentuate with statement earrings and heels for a complete look.",
+            "components":"3 (Lehenga, Blouse, Drape)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Net, Georgette.",
             "care":"Dry clean only.",
             "collection":["",""],
-            "mrp":28000,
+            "mrp":33000,
             "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
             "discount":0,
             "discount_option":[""],
@@ -436,22 +2048,22 @@
         },
         {
             "link":"/designers/lasha",
-            "sno":8,
-            "uid":"LSHA042440",
-            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1731052185/030A7195_2-01_y08nuc.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052186/030A7207-01_lpgc5j.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052187/030A7210-01_iarkcj.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052188/030A7218-01_iiwycf.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052189/030A7221-01_cga13t.jpg"],
-            "vendor":"DS03P",
+            "sno":44,
+            "uid":"LSHA022404",
+            "image":[""],
+            "vendor":"DC04F",
             "designer":"lasha",
             "design_owner":"Abhilasha",
             "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
             "country":"India",
-            "product_name":"Pista Green Organza Hand Embroidered Pre-Draped Saree Set",
-            "description":"Featuring a pista green pre-draped saree in organza and net base with hand embroidery. It is paired with a tulle and organza blouse having sequins, cutdana and pearl embedded. Accentuate with statement jewellery and heels for a wedding or mehendi ceremony.",
-            "components":"2 (Pre-Draped saree, Blouse)",
+            "product_name":"Fuchsia Pink Georgette Hand Embroidered Draped Tiered Lehenga Set",
+            "description":"Featuring a fuchsia pink tiered lehenga in georgette and organza base. It is paired with a blouse, a detachable drape and a hand embroidered cape. Accentuate with statement earrings and heels for a complete look.",
+            "components":"4 (Lehenga, Blouse, Drape, Cape)",
             "fit":"Fitted at bust and waist.",
-            "composition":"Organza, Net.",
+            "composition":"Organza, Georgette.",
             "care":"Dry clean only.",
             "collection":["",""],
-            "mrp":41000,
+            "mrp":30000,
             "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
             "discount":0,
             "discount_option":[""],
@@ -498,22 +2110,22 @@
         },
         {
             "link":"/designers/lasha",
-            "sno":9,
-            "uid":"LSHA042439",
-            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1731052301/030A7992-02_qsosaw.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052304/1000122227-01_f6glig.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052303/030A8005-01_bucxwy.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052310/030A7995-02_ggp3ay.jpg"],
-            "vendor":"SS03M",
+            "sno":45,
+            "uid":"LSHA022403",
+            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1734487448/1000120533-01_cw4wgl.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734487446/1000119984-02-01_kgxvqq.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734487422/1000119975-02_dxupkb.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734487453/1000119979-02_de20wj.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734487448/1000119985-01-01_fid6hw.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734487454/1000119978-01_rbvqoc.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1734487455/1000120027-01-01_uy0cf8.jpg"],
+            "vendor":"DS03B",
             "designer":"lasha",
             "design_owner":"Abhilasha",
             "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
             "country":"India",
-            "product_name":"Yellow Flat Chiffon Sequins Hand Embroidered Kurta Set",
-            "description":"Featuring a yellow kurta in flat chiffon base with embedded thread, dabka and sequins hand embroidery. It is paired with palazzo pants and a dupatta. Accentuate with statement jewellery and heels for a haldi ceremony.",
-            "components":"3 (Kurta, Pants, Dupatta)",
+            "product_name":"Black Organza & Tulle Embroidered Layered Draped Skirt Saree Set",
+            "description":"Featuring a black triple layered skirt in organza base. It is paired with a hand embroidered blouse and a detachable embroidered tulle drape. Accentuate with statement earrings and heels for a complete look.",
+            "components":"3 (Skirt, Blouse, Drape)",
             "fit":"Fitted at bust and waist.",
-            "composition":"Flat chiffon.",
+            "composition":"Organza, Tulle.",
             "care":"Dry clean only.",
             "collection":["",""],
-            "mrp":19000,
+            "mrp":39500,
             "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
             "discount":0,
             "discount_option":[""],
@@ -560,22 +2172,84 @@
         },
         {
             "link":"/designers/lasha",
-            "sno":10,
-            "uid":"LSHA042438",
-            "image":["https://res.cloudinary.com/deaahfa0r/image/upload/v1731052398/1000122229-01_s57ilh.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052403/030A7846-01_urx13c.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052398/030A7835-01_fxluft.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052396/030A7857-01_gqwdbz.jpg","https://res.cloudinary.com/deaahfa0r/image/upload/v1731052395/030A7834-01_iafdzt.jpg"],
-            "vendor":"BP03MM",
+            "sno":46,
+            "uid":"LSHA022402",
+            "image":[""],
+            "vendor":"KF03M",
             "designer":"lasha",
             "design_owner":"Abhilasha",
             "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
             "country":"India",
-            "product_name":"Pink Satin Georgette Bandhani Printed Skirt Set",
-            "description":"Featuring a pink draped skirt in satin georgette base with bandhani print. It is paired with a hand embroidered blouse and a cape having embedded mirror and thread work. Accentuate with statement jewellery and heels for pre-wedding ceremony.",
-            "components":"3 (Cape, Draped skirt, Blouse)",
+            "product_name":"Pink Organza Embellished Kaftan Set",
+            "description":"Featuring a pink kaftan in organza base with an embellished neckline. It is paired with a bustier and bemberg satin dhoti skirt. Accentuate with statement earrings and heels for a complete look.",
+            "components":"3 (Kaftan, Bustier, Dhoti skirt)",
             "fit":"Fitted at bust and waist.",
-            "composition":"Satin georgette.",
+            "composition":"Organza, Bemberg satin.",
             "care":"Dry clean only.",
             "collection":["",""],
-            "mrp":20000,
+            "mrp":18000,
+            "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
+            "discount":0,
+            "discount_option":[""],
+            "tags":["Woman", "kurta","lasha","top design","best"],
+            "category":"",
+            "gender":"female",
+            "size":{
+                "xs":{
+                    "waist":24,
+                    "bust":32,
+                    "hip":34
+                },
+                "s":{
+                    "waist":26,
+                    "bust":34,
+                    "hip":36
+                },
+                "m":{
+                    "waist":28,
+                    "bust":36,
+                    "hip":38
+                },
+                "l":{
+                    "waist":30,
+                    "bust":38,
+                    "hip":40
+                },
+                "xl":{
+                    "waist":32,
+                    "bust":40,
+                    "hip":42
+                },
+                "xxl":{
+                    "waist":34,
+                    "bust":42,
+                    "hip":44
+                },
+                "free":{
+                    "waist":0,
+                    "bust":0,
+                    "hip":0
+                }
+            }
+        },
+        {
+            "link":"/designers/lasha",
+            "sno":47,
+            "uid":"LSHA022401",
+            "image":[""],
+            "vendor":"CO02B",
+            "designer":"lasha",
+            "design_owner":"Abhilasha",
+            "manufacturedBy":"LASHA 5F, Lasha, Dada Jungi Lane. Shahpur Jat. Delhi 110049 SHAHPUR JAT DELHI 110049",
+            "country":"India",
+            "product_name":"Black Tulle Glass Beads Embroidered Jacket Set",
+            "description":"Featuring a black jacket in tulle base with glass beads embroidery. It is paired with an italian satin bustier and pants. Accentuate with statement earrings and heels for a complete look.",
+            "components":"3 (Jacket, Bustier, Pants)",
+            "fit":"Fitted at bust and waist.",
+            "composition":"Tulle, Italian satin.",
+            "care":"Dry clean only.",
+            "collection":["",""],
+            "mrp":19500,
             "delivery_time":"This product will be shipped to you after 1-2 weeks from the date of order placed. ",
             "discount":0,
             "discount_option":[""],
@@ -620,6 +2294,7 @@
                 }
             }
         }
+       
        
     ]
 }
