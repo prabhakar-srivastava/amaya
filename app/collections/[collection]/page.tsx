@@ -20,7 +20,7 @@ async function page() {
                 <div className='h-64 overflow-hidden'>
                     <Promobanner />
                 </div>
-                <h1 className='mt-6 text-gray-500 text-xl font-sans '> <span className='font-serif text-3xl tracking-wider text-black'>Best Designs&nbsp;</span>- Showing {lashaData?.lasha.length} Styles</h1>
+                <h1 className='mt-6 text-gray-500 text-xl font-sans '> <span className='font-serif text-3xl tracking-wider text-black'>Best Designs&nbsp;</span>- Showing {productList?.length} Styles</h1>
                 <div className='h-0.5 w-56 bg-gray-300 ' />
                 <div className=' relative grid grid-cols-6 gap-5 my-14 '>
                     <div className='col-span-1 sticky top-28 h-max '>

@@ -21,7 +21,7 @@ function Filters() {
 
 
     return (
-        <div className=' h-[600px] overflow-scroll bg-gray-100 rounded-md px-6 py-4 shadow-slate-400 shadow-lg'>
+        <div className=' h-[600px] overflow-scroll bg-gray-50 rounded-md px-6 py-4 shadow-slate-400 shadow-lg'>
             <div className='mb-6'>
                 <h1 className='font-serif py-2 border-b-2 border-gray-300 mb-4'>Category</h1>
                 {filter.category.map((res, index) => {

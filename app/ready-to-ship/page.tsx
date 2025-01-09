@@ -10,7 +10,7 @@ async function page() {
   return (
     <div>
       <Section type={TYPE.CONTAIN} sectionStyle={'!py-0'}>
-        <h1 className='text-gray-500 text-xl font-sans mb-4'> <span className='font-serif tracking-wider text-3xl text-black'>READY TO SHIP&nbsp;</span>- Showing {lashaData?.lasha.length} Styles</h1>
+        <h1 className='text-gray-500 text-xl font-sans mb-4'> <span className='font-serif tracking-wider text-3xl text-black'>READY TO SHIP&nbsp;</span>- Showing {productList?.length} Styles</h1>
         <div className=''>
           <Promobanner />
         </div>

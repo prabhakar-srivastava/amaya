@@ -13,7 +13,7 @@ async function page() {
   return (
     <div>
       <Section type={TYPE.CONTAIN} sectionStyle={'!py-0'}>
-        <h1 className='text-gray-500 text-xl font-sans mb-4'>Showing {lashaData?.lasha.length} Styles</h1>
+        <h1 className='text-gray-500 text-xl font-sans mb-4'>Showing {productList?.length} Styles</h1>
         <div className=' relative grid grid-cols-6 gap-5 my-14 '>
                     <div className='col-span-1 sticky top-28 h-max '>
                         <Filters />

@@ -2,12 +2,13 @@
 import Image from 'next/image'
 import React, { useState } from 'react'
 import Carousal from './carousal'
+import ReactImageMagnify from 'react-image-magnify'
 // import ReactImageMagnify from 'react-image-magnify';
 
 function ThumbNailCarousal(props: { imgList: string[] }) {
     const [active, setActive] = useState<number>(0)
     const [activeImage, setActiveImage] = useState<string>()
-    
+
     return (
         props?.imgList?.length > 0 && (
             <div className='flex flex-col-reverse lg:flex-row gap-3'>
@@ -27,21 +28,24 @@ function ThumbNailCarousal(props: { imgList: string[] }) {
 
                 {/* selected image  */}
                 <div className='hidden lg:block'>
-                    <Image src={!activeImage?.length ? props?.imgList?.[0] : activeImage} alt='' width={15000} height={15000} className='w-full h-[63vh] lg:h-[80vh]' />
-                    {/* <div className='w-full h-[63vh] lg:h-[80vh]'>
-                        <ReactImageMagnify {...{
-                            smallImage: {
-                                alt: 'Wristwatch by Ted Baker London',
-                                isFluidWidth: true,
-                                src: !activeImage?.length ? props?.imgList?.[0] : activeImage
-                            },
-                            largeImage: {
-                                src: !activeImage?.length ? props?.imgList?.[0] : activeImage,
-                                width: 1200,
-                                height: 1800
-                            }
-                        }} />
-                    </div> */}
+                    {/* <Image src={!activeImage?.length ? props?.imgList?.[0] : activeImage} alt='' width={15000} height={15000} className='w-full h-[63vh] lg:h-[80vh]' /> */}
+                    <ReactImageMagnify {...{
+                        smallImage: {
+                            alt: 'Wristwatch by Ted Baker London',
+                            isFluidWidth:false,
+                            width:450,
+                            height:600,
+                            src: !activeImage?.length ? props?.imgList?.[0] : activeImage
+                        },
+                        largeImage: {
+                            src: !activeImage?.length ? props?.imgList?.[0] : activeImage,
+                            width: 3600,
+                            height: 4000,
+                            
+                        },
+                        enlargedImagePosition: 'beside',
+                        lensstyle: { backgroundColor: 'rgba(0,0,0,.6)' ,height:'5rem' , width:'5rem' },
+                    }} />
                 </div>
                 {/* mobile view */}
                 <div className='block lg:hidden'>
