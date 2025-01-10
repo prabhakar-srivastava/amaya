@@ -1,10 +1,10 @@
-import { Heart, Search, ShoppingCart, User } from 'lucide-react'
+import { Heart, LayoutDashboard, ListOrdered, LogIn, Search, ShoppingCart, Triangle, User } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
 import Section, { TYPE } from '../Section/section'
 import Hamburger from './hamburger'
 
-export  const nav = [
+export const nav = [
   {
     name: 'New',
     link: '/new'
@@ -71,11 +71,11 @@ function Navbar() {
           <div className=' flex justify-between items-center'>
             <div className='flex gap-2 items-center'>
               <div className=''>
-                
+
                 <Hamburger />
               </div>
               <Link href={'/'} className=''>
-                <Image src="/amayalogo.png" alt="logo" width={200} height={150} className='w-36 h-10 lg:w-44 lg:h-10' />
+                <Image src="/amayalogo2.png" alt="logo" width={200} height={150} className='w-36 h-8 lg:w-44 ' />
               </Link>
             </div>
 
@@ -93,8 +93,16 @@ function Navbar() {
               <div className='cursor-pointer'>
                 <ShoppingCart />
               </div>
-              <div className='cursor-pointer p-1 hidden lg:block rounded-full bg-foreground'>
-                <User />
+              <div className='cursor-pointer group p-1 hidden lg:block rounded-full bg-foreground'>
+                <User/>
+                <div className=" flex flex-col w-32 gap-2 bg-gray-100 rounded-md p-2.5 transition transform translate-x-20 font-sans tracking-wider ease-in-out invisible absolute top-14 text-xs shadow-2xl right-2.5 group-hover:visible group-hover:translate-x-0">
+                  <Triangle fill='#f3f4f6' strokeWidth={0} size={15} className='absolute -top-3 left-5'/>
+                  <a href="/auth" className='flex hover:bg-white rounded-md px-1.5 gap-1 items-center'> <LayoutDashboard  className=' p-1'/> <span>DashBoard</span></a>
+                  <a href="/auth" className='flex hover:bg-white rounded-md px-1.5 gap-1 items-center'> <Heart  className=' p-1'/> <span>Wishlist</span></a>
+                  <a href="/auth" className='flex hover:bg-white rounded-md px-1.5 gap-1 items-center'> <ListOrdered  className=' p-1'/> <span>Orders</span></a>
+                  <a href="/auth" className='flex hover:bg-white rounded-md px-1.5 gap-1 items-center'> <User className=' p-1'/> <span>Profile</span></a>
+                  <a href="/auth" className='flex hover:bg-white rounded-md px-1.5 gap-1 items-center'> <LogIn className=' p-1'/> <span>Login</span></a>
+                </div>
               </div>
             </div>
           </div>

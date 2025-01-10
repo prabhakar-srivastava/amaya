@@ -6,7 +6,7 @@ function Slider3D() {
     const img = '/size.png'
     return (
         <div>Slider<br />
-            <div className='w-[40rem] h-[40rem]'>
+            <div className='w-[40rem] h-[40rem] z-30'>
                 <ReactImageMagnify {...{
                     smallImage: {
                         alt: 'Wristwatch by Ted Baker London',

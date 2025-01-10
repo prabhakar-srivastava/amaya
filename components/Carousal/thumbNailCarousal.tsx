@@ -8,6 +8,7 @@ import ReactImageMagnify from 'react-image-magnify'
 function ThumbNailCarousal(props: { imgList: string[] }) {
     const [active, setActive] = useState<number>(0)
     const [activeImage, setActiveImage] = useState<string>()
+    
 
     return (
         props?.imgList?.length > 0 && (
