@@ -34,7 +34,7 @@ function ThumbNailCarousal(props: { imgList: string[] }) {
                         smallImage: {
                             alt: 'Wristwatch by Ted Baker London',
                             isFluidWidth:false,
-                            width:450,
+                            width:425,
                             height:600,
                             src: !activeImage?.length ? props?.imgList?.[0] : activeImage
                         },

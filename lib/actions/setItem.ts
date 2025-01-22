@@ -1,14 +1,15 @@
 import { getItem } from "./getItem"
 
-export const setItem= async( data:any)=>{
-    const products=JSON.stringify(data)
-    localStorage.setItem('products', products)
+export const setItem= async(key:string, data:any)=>{
+    const products=JSON.stringify(new Array(data))
+    localStorage.setItem(key, products)
 
 }
 
-export const addItem=(item:any)=>{
-    const getProductData:any[]=getItem()
+export const addItem=(Key:string,item:any)=>{
+    const getProductData:any[]=getItem(Key)
+    console.log(getProductData,'prod');
     getProductData.push(item)
-    setItem(getProductData)
+    setItem(Key,getProductData)
 
 }

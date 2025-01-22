@@ -1,10 +1,8 @@
-import { error } from "console"
-
-export const getItem=()=>{
-    const products:string | null = localStorage.getItem('products') 
-    const productsData= JSON.parse(products || '')
-    if(!productsData?.lenght){
-        throw error('error adding products to the cart')
+export const getItem = (key:string) => {
+    const products = localStorage.getItem(key)
+    if (!products?.length) {
+        throw console.error('error adding products to the cart')
     }
+    const productsData = JSON.parse(products || '')
     return productsData
 }

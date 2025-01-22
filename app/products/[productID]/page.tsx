@@ -78,7 +78,7 @@ async function page({ params }: any) {
                             </div>
                         </div>
                         <div className='mt-8 flex gap-2 lg:gap-4 justify-between'>
-                            <div className='bg-black text-center text-white cursor-pointer py-2 text-xl w-full'>BUY NOW</div>
+                            <div className='bg-black text-center shadow-xl text-white cursor-pointer py-2 text-xl w-full'>BUY NOW</div>
                             <div className='w-full border border-gray-400 cursor-pointer text-center py-2'>ADD TO CART</div>
                         </div>
                         <div className='py-4 border-t-2 border-b-2 mt-6'>

@@ -32,10 +32,12 @@ export default function RootLayout({
         className={`font-sans`}
       >
         <Navbar />
-        <div className="mt-4 ">
-        {children}
+        <div className="mt-4">
+          {children}
         </div>
         <Footer />
+
+
       </body>
     </html>
   );
